@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/wolf/MinhasFormacoes/CursoEstruturaDeDadosComJava/.metadata/.plugins/org.eclipse.jdt.core
+862010142.index
+2858969764.index
+646308851.index
