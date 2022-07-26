@@ -154,7 +154,7 @@ System.out.println(nome);
 nos retorna ```Marcelo```.
 ## Usabilidade das pilhas
 
-O conceito de pilhas é muito utilizado por compiladores e autômatos. Esta estrutura de dados tem muita usabilidade em ciência da computação. O próprio, e muito conhecido, comando "Desfazer" dos editores de texto, de código, de imagens, etc tem como base as pilhas. Podemos também brincar com palavras e inverter a ordem de suas letras utilizando as pilhas.
+O conceito de pilhas é muito utilizado por compiladores e autômatos. Esta estrutura de dados tem muita usabilidade em ciência da computação. O próprio, e muito conhecido, comando "Desfazer" dos editores de texto, de código, de imagens, etc tem como base as pilhas. Podemos também brincar com palavras e inverter a ordem de suas letras utilizando as pilhas, ou seja, **LIFO -> Last-in, First-out (Ultimo a entrar, primeiro a sair)**.
 
 ### Ilustração de uma pilha (Push e Pop)
 
@@ -165,6 +165,7 @@ O conceito de pilhas é muito utilizado por compiladores e autômatos. Esta estr
 ### Outra Ilustração bem simples🚀  :
 
 ![](https://amadorprograma.files.wordpress.com/2021/10/pilha-push-pop.png)
+
 
 
 
