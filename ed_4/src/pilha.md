@@ -144,7 +144,7 @@ System.out.println(stack)
 ```
 O quê imprime ```[Mauricio]```.
 
-##Método peek
+## Método peek
 
 Como vimos, o pop remove o último elemento da pilha. O método peek trabalha em cima desse elemento também, porém sem removê-lo. Ele apenas o retorna. Se temos, então, a pilha ```[Mauricio, Marcelo]```,
 ```java
@@ -165,20 +165,3 @@ O conceito de pilhas é muito utilizado por compiladores e autômatos. Esta estr
 ### Outra Ilustração bem simples🚀  :
 
 ![](https://amadorprograma.files.wordpress.com/2021/10/pilha-push-pop.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
